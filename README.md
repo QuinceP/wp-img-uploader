@@ -5,11 +5,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
-   
- I. Introduction
- II. Requirements
- III. Recommended Wordpress Plugins
- IV. Configuration
+
  
 I. INTRODUCTION
 ------------
