@@ -1,6 +1,7 @@
 # wp-img-uploader
 ### by Christen Ward christenward@christenward.com
 
+![the script's results on my blog, heyahh.me](http://i.imgur.com/Jq4KJcy.png)
 
 CONTENTS OF THIS FILE
 ---------------------
