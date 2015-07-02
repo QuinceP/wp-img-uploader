@@ -19,15 +19,16 @@ wp_password = "PASSWORD"
 #this is the folder you wish to upload. for example, /site/cats/browncats/
 folder = "/site/cats/browncats/"
 #
-#change the directory to this folder
-os.chdir(folder)
-#
 #enter post details here
 title = "Post Title"
 categories = ["text"]
 tags = ["article", "blog"]
 ##################################
+#You shouldn't have to edit anything past this point.
 
+
+#change the directory to the folder
+os.chdir(folder)
 
 #this is to access the Wordpress xmlrpc API. no need to edit anything here.
 wp_url = site +"xmlrpc.php"
