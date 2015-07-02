@@ -1,5 +1,5 @@
 # wp-img-uploader
-### by Christen Ward christenward@christenward.com
+### by Christen Ward christen@christenward.com
 
 ![the script's results on my blog, heyahh.me](http://i.imgur.com/Jq4KJcy.png)
 
