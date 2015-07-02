@@ -10,7 +10,7 @@ CONTENTS OF THIS FILE
 I. INTRODUCTION
 ------------
 Wordpress Image Uploader bulk uploads each jpeg picture in a directory to 
-your Wordpress blog, and creates it as a separate post using the Worpress
+your Wordpress blog, and creates it as a separate post using the Wordpress
 API. Works great for photography blogs or any type of blog that requires 
 quick uploading of a single directory without having to blog each one manually.
 
